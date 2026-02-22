@@ -1,6 +1,8 @@
---This app is made by useing Python 3.14--
+This project was created using Python 3.14.
 
-(Simple consol game from a starter "programer")
+It is a simple console-based game made by a beginner programmer.
 
-(Game: rolling the dice (double dice) and racing with the robot
-    to win the match.)
+Game Summary:
+You roll two dice (double-dice system) and compete against a robot. 
+Each round compares your points with the robot's points.
+Whoever reaches 3 points first wins the game.
