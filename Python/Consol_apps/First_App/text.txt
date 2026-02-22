@@ -1,0 +1,6 @@
+--This app is made by useing Python 3.14--
+
+(Simple consol game from a starter "programer")
+
+(Game: rolling the dice (double dice) and racing with the robot
+    to win the match.)
