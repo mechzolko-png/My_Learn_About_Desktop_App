@@ -1,4 +1,4 @@
 A lightweight mathematical expression parser written in Python 
 that interprets and evaluates linear functions like: 
     
-    f(x)=3x+5   --directly from user input.
+    f(x)=3x+5   --directly from user input. 
